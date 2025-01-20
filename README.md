@@ -29,11 +29,6 @@ I am a passionate 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 and .𝗡𝗘𝗧 �
 
 💡 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗔𝗵𝗲𝗮𝗱: I’m looking to further my career in roles that bring together 𝗔𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and .𝗡𝗘𝗧 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀. My goal is to develop intelligent applications that transform data into actionable insights, making businesses more efficient and scalable. If you’re looking for someone who can combine .𝗡𝗘𝗧 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 with 𝗔𝗜 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻, let’s connect! 🤝
 
----
-
-### 📗 Latest Blog Posts
-
----
 
 <details>
     <summary><b>🛠️ Languages and Tools</b></summary>
