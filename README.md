@@ -4,9 +4,8 @@
 
 **`𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | .𝗡𝗘𝗧 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁`**
 
-* 🌍 I'm based in Switzerland
 * ✉️ You can contact me at [edouardos.stavrakis@gmail.com](mailto:edouardos.stavrakis@gmail.com)
-* 🤔 My other software related interests: serverless, 🧩 microservices, 🤖 AI & LLMs
+* 🤔 My other software related interests: 🤖 AI & LLMs
 
 ### 🔗 Connect With Me
 
@@ -45,10 +44,3 @@ I am a passionate 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 and .𝗡𝗘𝗧 �
 </details>
 
 <br />
-
-<details>
-    <summary><b>📈 My GitHub Stats</b></summary>
-    <br />
-    <a href="http://www.github.com/EdouardosStav"><img src="https://github-readme-stats.vercel.app/api?username=EdouardosStav&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="IgorWnek's GitHub stats" /></a>
-    <br />    
-</details>
