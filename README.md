@@ -2,10 +2,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
-**𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | .𝗡𝗘𝗧 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁**
+**𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿**
 
 * ✉️ You can contact me at [edouardos.stavrakis@gmail.com](mailto:edouardos.stavrakis@gmail.com)
-* 🤔 My other software related interests: 🤖 AI & LLMs
+* 🤖 Founder of NegotAI: Building AI-powered SaaS for smarter salary negotiations
 
 ### 🔗 Connect With Me
 
@@ -17,17 +17,25 @@
 
 ### ✨ About me
 
-I am a passionate 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 and .𝗡𝗘𝗧 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, blending advanced 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 with modern .𝗡𝗘𝗧 technologies to deliver scalable, impactful solutions. With expertise in both backend development and AI, I enjoy creating systems that are not only efficient but also intelligent, leveraging the power of 𝗖# 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗮𝗻𝗱 𝗔𝗪𝗦.
+I'm a Technology Consultant and AI Engineer focused on building intelligent, cloud-native solutions that drive real business value.
+I bring a hybrid background in software engineering, AI development, and digital transformation strategy.
+
+With experience across startup and enterprise settings—from launching NegotAI, to delivering financial SaaS at Fenergo, to IT assurance at PwC—I approach problems holistically, delivering systems that are scalable, reliable, and aligned with business objectives.
+
 
 🔧 𝗪𝗵𝗮𝘁 𝗜 𝗖𝗮𝗻 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲:
 
-• 🤖 𝗔𝗜 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗮𝘀𝘁𝗲𝗿𝘆: From building 𝗶𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 to implementing predictive models, I thrive at the intersection of AI and real-world application.
+• 🧠 AI Systems & Automation
+From intelligent workflow automation to data-driven insights, I build AI solutions that solve real-world problems using Python, OpenAI APIs, and ML frameworks.
 
-• 💻 .𝗡𝗘𝗧 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Proficient in 𝗖#, .𝗡𝗘𝗧 𝗖𝗼𝗿𝗲, and 𝗥𝗘𝗦𝗧𝗳𝘂𝗹 𝗔𝗣𝗜𝘀, I’ve built high-performing, secure SaaS platforms and back-end systems that scale with ease. At Fenergo, I focused on creating robust cloud-based applications integrated with 𝗔𝗪𝗦 and 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀.
+• ☁️ Cloud-Native Engineering
+I develop robust backends and scalable APIs using tools like Supabase, PostgreSQL, FastAPI, and AWS. My solutions are built to scale across B2B and B2C use cases.
 
-• ☁️ 𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀: Skilled in deploying containerized applications on 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀 and 𝗗𝗼𝗰𝗸𝗲𝗿, I ensure the reliability, scalability, and performance of my solutions in 𝗔𝗪𝗦 and 𝗔𝘇𝘂𝗿𝗲 environments.
+• 🧩 Consulting-Grade Problem Solving
+From PwC to Fenergo, I’ve worked cross-functionally with business and tech teams to align implementation with business needs, reduce inefficiencies, and deliver results.
 
-💡 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗔𝗵𝗲𝗮𝗱: I’m looking to further my career in roles that bring together 𝗔𝗜 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and .𝗡𝗘𝗧 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀. My goal is to develop intelligent applications that transform data into actionable insights, making businesses more efficient and scalable. If you’re looking for someone who can combine .𝗡𝗘𝗧 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 with 𝗔𝗜 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻, let’s connect! 🤝
+💡 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗔𝗵𝗲𝗮𝗱: I'm open to opportunities in AI consulting, cloud strategy, or full-stack product roles—especially where innovation meets impact.
+If you’re looking for someone who bridges the gap between engineering and business transformation, let’s connect! 🤝
 
 
 <details>
