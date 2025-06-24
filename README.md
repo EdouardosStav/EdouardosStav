@@ -1,13 +1,13 @@
-# 🚀 Edouardos Stavrakis
+# Edouardos Stavrakis
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
 **𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿**
 
-* ✉️ You can contact me at [edouardos.stavrakis@gmail.com](mailto:edouardos.stavrakis@gmail.com)
-* 🤖 Founder of NegotAI: Building AI-powered SaaS for smarter salary negotiations
+* You can contact me at [edouardos.stavrakis@gmail.com](mailto:edouardos.stavrakis@gmail.com)
+* Founder of NegotAI: Building AI-powered SaaS for smarter salary negotiations
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
     <a href="https://www.github.com/EdouardosStav" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
@@ -15,7 +15,7 @@
 </p>
 
 
-### ✨ About me
+### About me
 
 I'm a Technology Consultant and AI Engineer focused on building intelligent, cloud-native solutions that drive real business value.
 I bring a hybrid background in software engineering, AI development, and digital transformation strategy.
@@ -25,16 +25,16 @@ With experience across startup and enterprise settings—from launching NegotAI,
 
 🔧 𝗪𝗵𝗮𝘁 𝗜 𝗖𝗮𝗻 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲:
 
-• 🧠 AI Systems & Automation
+• AI Systems & Automation
 From intelligent workflow automation to data-driven insights, I build AI solutions that solve real-world problems using Python, OpenAI APIs, and ML frameworks.
 
-• ☁️ Cloud-Native Engineering
+• Cloud-Native Engineering
 I develop robust backends and scalable APIs using tools like Supabase, PostgreSQL, FastAPI, and AWS. My solutions are built to scale across B2B and B2C use cases.
 
-• 🧩 Consulting-Grade Problem Solving
+• Consulting-Grade Problem Solving
 From PwC to Fenergo, I’ve worked cross-functionally with business and tech teams to align implementation with business needs, reduce inefficiencies, and deliver results.
 
-💡 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗔𝗵𝗲𝗮𝗱: I'm open to opportunities in AI consulting, cloud strategy, or full-stack product roles—especially where innovation meets impact.
+𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗔𝗵𝗲𝗮𝗱: I'm open to opportunities in AI consulting, cloud strategy, or full-stack product roles—especially where innovation meets impact.
 If you’re looking for someone who bridges the gap between engineering and business transformation, let’s connect! 🤝
 
 
