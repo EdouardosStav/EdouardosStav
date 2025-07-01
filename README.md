@@ -17,25 +17,28 @@
 
 ### About me
 
-I'm a Technology Consultant and AI Engineer focused on building intelligent, cloud-native solutions that drive real business value.
-I bring a hybrid background in software engineering, AI development, and digital transformation strategy.
+I’m Edouardos Stavrakis, an AI Engineer and Full Stack Developer with 4+ years of experience building backend systems, cloud-native platforms, and intelligent AI products.
 
-With experience across startup and enterprise settings—from launching NegotAI, to delivering financial SaaS at Fenergo, to IT assurance at PwC—I approach problems holistically, delivering systems that are scalable, reliable, and aligned with business objectives.
+My strength lies in developing scalable APIs, integrating AI models, and delivering software that performs reliably in production. From launching my own AI startup (NegotAI) to working on enterprise-grade onboarding systems at Fenergo, I’ve worked across the stack to solve real-world engineering problems.
+
+My current focus is building robust AI-powered platforms—combining GPT, serverless infrastructure, and modern web tech to ship products fast and at scale.
 
 
 🔧 𝗪𝗵𝗮𝘁 𝗜 𝗖𝗮𝗻 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲:
 
-• AI Systems & Automation
-From intelligent workflow automation to data-driven insights, I build AI solutions that solve real-world problems using Python, OpenAI APIs, and ML frameworks.
+• Backend & Cloud Engineering
+Scalable APIs with Supabase, FastAPI, .NET, PostgreSQL, and AWS.
 
-• Cloud-Native Engineering
-I develop robust backends and scalable APIs using tools like Supabase, PostgreSQL, FastAPI, and AWS. My solutions are built to scale across B2B and B2C use cases.
+• AI Product Development
+Built and deployed GPT-based agents, voice onboarding tools, and real-time automation workflows.
 
-• Consulting-Grade Problem Solving
-From PwC to Fenergo, I’ve worked cross-functionally with business and tech teams to align implementation with business needs, reduce inefficiencies, and deliver results.
+• Full Stack Delivery
+Hands-on with modern frontend frameworks (React, Next.js) and production-ready systems.
 
-𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗔𝗵𝗲𝗮𝗱: I'm open to opportunities in AI consulting, cloud strategy, or full-stack product roles—especially where innovation meets impact.
-If you’re looking for someone who bridges the gap between engineering and business transformation, let’s connect! 🤝
+• Engineering Mindset
+Clean code, CI/CD, security, performance, and fast iteration cycles.
+
+I’m open to software engineering, AI engineering, or product-focused roles—especially where I can build and ship AI systems that matter.
 
 
 <details>
